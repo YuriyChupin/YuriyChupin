@@ -6,8 +6,8 @@
 
 ### 🤝 Социальные сети:
 <a href="www.linkedin.com/in/yuriy-chupin" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/78105bdf0d6f21a8c0e495de1434a8afec1f4f7f789bd1813c87e46cf0e43187/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d313339333026666f726d61743d706e67" title="LinkedIn" alt="LinkedIn" width="40" height="40" style="max-width: 100%;">
-  </a> <a href="https://t.me/Xhacker009" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/78105bdf0d6f21a8c0e495de1434a8afec1f4f7f789bd1813c87e46cf0e43187/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d313339333026666f726d61743d706e67" title="LinkedIn" alt="LinkedIn" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://t.me/Xhacker009" rel="nofollow">
   <img src="https://camo.githubusercontent.com/fcbf048deb1f46a9fdfea57f18321f6e641acb024cbe91522b2fb1534803251c/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d363333303626666f726d61743d706e67" title="Telegram" alt="Telegram" width="40" style="max-width: 100%;">
   </a>
 
