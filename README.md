@@ -26,4 +26,4 @@
 [CrowdTesting](https://ru.docworkspace.com/d/sIBnxk_46vZuHvAY)
 
 ### 🎓 Сертификаты:
-
+[Тестирование ПО с нуля,2024](https://stepik.org/certificate/3db16f26c41d5adf9870738a31a5ad81e6695474.png?resolution=low)
