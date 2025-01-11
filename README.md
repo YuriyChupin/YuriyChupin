@@ -1,3 +1,5 @@
+[![Header](https://github.com/YuriyChupin/YuriyChupin/blob/main/assets/giphy.gif)]
+
 Привет,меня зовут Юрий!
 
 Обо мне:
